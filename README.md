@@ -13,7 +13,7 @@ Happy Talks speaks up when you get:
 - a skill up
 - your name said in chat
 
-## 27 voice packs
+## 33 voice packs
 
 | Kind | Packs |
 | --- | --- |
@@ -21,6 +21,7 @@ Happy Talks speaks up when you get:
 | Characters | Moogle, Butler, Pirate, HYPE!!!, Comedy, Drunk, Grumpy, Whisper |
 | Accents | Frat Bro, Frat Girl, Indian, German, Italian, Aussie, Southern, Chinese |
 | Themed | Sing-along (old tunes, new words), Quotes (Shakespeare and history), Trailer ("in a world...") |
+| Famous types | Nature Show, Action Hero, Royal, Football, Wrestling, Wizard |
 | Other | Classic (chatmon's clips), Chimes (no voice) |
 
 ## Install
