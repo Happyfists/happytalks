@@ -30,6 +30,7 @@ talks.PACKS = {
     { id = 'hype',    label = 'HYPE!!!',   tip = 'way over the top, with an air horn' },
     { id = 'comedy',  label = 'Comedy',    tip = 'cheeky jokes' },
     { id = 'drunk',   label = 'Drunk',     tip = 'one too many at the Kazham bar' },
+    { id = 'rude',    label = 'Rude',      tip = 'oi, numpty!' },
     { id = 'grumpy',  label = 'Grumpy',    tip = 'not impressed' },
     { id = 'whisper', label = 'Whisper',   tip = 'psst...' },
     { id = 'frat',    label = 'Frat Bro',  tip = 'brooo, gains' },

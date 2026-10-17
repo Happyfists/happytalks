@@ -13,12 +13,12 @@ Happy Talks speaks up when you get:
 - a skill up
 - your name said in chat
 
-## 33 voice packs
+## 34 voice packs
 
 | Kind | Packs |
 | --- | --- |
 | Plain voices | Heart, Emma, Lily, Sky, Michael, George |
-| Characters | Moogle, Butler, Pirate, HYPE!!!, Comedy, Drunk, Grumpy, Whisper |
+| Characters | Moogle, Butler, Pirate, HYPE!!!, Comedy, Drunk, Rude, Grumpy, Whisper |
 | Accents | Frat Bro, Frat Girl, Indian, German, Italian, Aussie, Southern, Chinese |
 | Themed | Sing-along (old tunes, new words), Quotes (Shakespeare and history), Trailer ("in a world...") |
 | Famous types | Nature Show, Action Hero, Royal, Football, Wrestling, Wizard |

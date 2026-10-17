@@ -3,7 +3,7 @@
 
     Says something when you get a tell, a GM tell, a party or alliance invite, a trade, an emote
     at you, someone checks you, your bags are full, you skill up, or someone says your name.
-    33 voice packs: plain voices, accents, comedy, sing-along, quotes, a movie trailer and more.
+    34 voice packs: plain voices, accents, comedy, sing-along, quotes, a movie trailer and more.
 
     Based on chatmon by atom0s (Ashita Development Team, GNU GPL v3) - the same events, read the
     same way. Voices made with Kokoro TTS. Unload chatmon when using this, or you'll hear both.
@@ -17,8 +17,8 @@
 
 addon.name    = 'happytalks';
 addon.author  = 'Happyfists';
-addon.version = '1.1';
-addon.desc    = 'Spoken alerts for tells, invites, trades and more, with 33 voice packs.';
+addon.version = '1.2';
+addon.desc    = 'Spoken alerts for tells, invites, trades and more, with 34 voice packs.';
 addon.link    = 'https://github.com/Happyfists/happytalks';
 
 require('common');
